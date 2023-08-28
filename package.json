@@ -24,6 +24,7 @@
     "nodemon": "^3.0.1",
     "openssl": "^2.0.0",
     "openssl-nodejs": "^1.0.5",
-    "otp-generator": "^4.0.1"
+    "otp-generator": "^4.0.1",
+    "bcrypt": "^5.1.1"
   }
 }
